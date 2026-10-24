@@ -7,4 +7,4 @@ Features:
 * Azzanadra voice-over lines play when you do something awesome ingame! (or something totally boring. He doesn't care, he loves you either way!)
 * No AI - all soundbites already existed ingame for various quests or bosses. I simply reused them for motivational purposes!
 
-![Azzy Awesome banner]([http://url/to/img.png](https://i.postimg.cc/d3dHXFqt/azzyawesome.png))
+![Azzy Awesome banner](https://i.postimg.cc/d3dHXFqt/azzyawesome.png)
