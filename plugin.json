@@ -1,0 +1,12 @@
+{
+  "name": "Azzy Awesome",
+  "version": "1.0.0",
+  "contactEmailAddress": "plugins@4doranges.dev",
+  "hasSettingsIcon": true,
+  "hasRibbonIcon": false,
+  "requiredDependencies": {
+    "prettyui": 6398181
+  },
+  "optionalDependencies": {},
+  "optionalPermissions": ["chatAccess"]
+}
