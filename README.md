@@ -5,7 +5,7 @@
 Being the World Guardian can be rough sometimes, if only you had your own personal cheerleader...
 Guess what, now you do!
 Meet Azzanadra.
-He's volunteered been coerced into supporting you on all your adventures with encouraging voice lines!
+He's ~~volunteered~~ been coerced into supporting you on all your adventures with encouraging voice lines!
 
 Features:
 * Azzanadra voice-over lines play when you do something awesome ingame! (or something totally boring. He doesn't care, he loves you either way!)
